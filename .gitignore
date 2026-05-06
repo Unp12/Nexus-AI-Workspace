@@ -1,0 +1,18 @@
+# Environments
+.env
+.venv
+env/
+venv/
+__pycache__/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Database
+*.db
+*.sqlite3
+
+# Docker
+docker-desktop-data.tar

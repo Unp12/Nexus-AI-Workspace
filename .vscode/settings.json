@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./backend/app"
+    ],
+    "python.analysis.importFormat": "relative",
+    "python.envFile": "${workspaceFolder}/backend/.env"
+}
